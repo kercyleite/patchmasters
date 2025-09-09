@@ -1,0 +1,15 @@
+{
+  "version": "2.1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/kercyleite/patchmasters/refs/heads/main/KONAMI-WIN32PES6OPT",
+  "description": "Atualização com times da temporada 2025/2026 - Transferências de julho incluídas",
+  "releaseDate": "2025-01-15T10:30:00Z",
+  "changelog": [
+    "Transferências de janeiro 2025 atualizadas",
+    "Correção de uniformes de alguns clubes",
+    "Atualização de ratings dos jogadores",
+    "Novos estádios adicionados"
+  ],
+  "fileSize": 2048576,
+  "checksum": "sha256:a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456"
+}
+
